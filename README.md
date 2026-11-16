@@ -344,3 +344,8 @@ Arch and OneOf are plain DLLs vendored under `Assets/_Main/NuGet/` and tracked i
 `Assets/_Main/packages.config`; use **NuGetForUnity** (`NuGet > Manage NuGet Packages`) to update
 them. UPM dependencies (VContainer, Newtonsoft) live in `Packages/manifest.json` with the OpenUPM
 scoped registry already configured.
+
+## License
+
+Code is released under the [MIT License](LICENSE). Art, music and sounds made for this project are CC0, and
+third-party assets keep their own licenses, all listed in [CREDITS.md](CREDITS.md).
