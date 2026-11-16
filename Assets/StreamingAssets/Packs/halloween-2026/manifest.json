@@ -1,0 +1,122 @@
+{
+  "id": "halloween-2026",
+  "hash": "faf753370fe9d132dba49eef1e4d3882",
+  "updated": "2026-11-06T12:55:38Z",
+  "files": [
+    {
+      "path": "art/batsy.png",
+      "hash": "f85c5aab67302a2c8d958175e59698b6",
+      "size": 37405
+    },
+    {
+      "path": "art/fangsworth.png",
+      "hash": "4ee443c71c882caa2c9e2f7089107e14",
+      "size": 63919
+    },
+    {
+      "path": "art/gourdking.png",
+      "hash": "37e127bb5a29012a302a4fd3894c26e0",
+      "size": 48488
+    },
+    {
+      "path": "art/howler.png",
+      "hash": "4c902c7e3f5d1e4cce0e646d94ffc58a",
+      "size": 42824
+    },
+    {
+      "path": "art/jenny.png",
+      "hash": "58c46049f751072b583238de7edef06f",
+      "size": 54616
+    },
+    {
+      "path": "art/mumbles.png",
+      "hash": "5165481cc6c395104d8fad7f541b0c0b",
+      "size": 36397
+    },
+    {
+      "path": "art/pip.png",
+      "hash": "67bcd7fdcece066dc10e72e3bc50281a",
+      "size": 39130
+    },
+    {
+      "path": "art/sheety.png",
+      "hash": "95eb7536226ad4962252118219c89f1e",
+      "size": 24225
+    },
+    {
+      "path": "art/skelly.png",
+      "hash": "edc8d6b890b4f5df4b1190c9137dc8c6",
+      "size": 31043
+    },
+    {
+      "path": "art/wanda.png",
+      "hash": "5fb315410a14590d964561e77c02fbe3",
+      "size": 37355
+    },
+    {
+      "path": "logo.png",
+      "hash": "803cdd325cf4ca47e6df4c58d7c04420",
+      "size": 61030
+    },
+    {
+      "path": "pack.json",
+      "hash": "d98ee04b33b3cc72c2e88a112b8843cf",
+      "size": 4285
+    },
+    {
+      "path": "scenery.png",
+      "hash": "e6d337fb45d2b5d91f9fbe08ed990ef0",
+      "size": 51072
+    },
+    {
+      "path": "voice/batsy.wav",
+      "hash": "52038ad35e042ab7223766ae05683a7b",
+      "size": 52964
+    },
+    {
+      "path": "voice/fangsworth.wav",
+      "hash": "f4e7158128d64cf969e7b547cabe5bdd",
+      "size": 167624
+    },
+    {
+      "path": "voice/gourdking.wav",
+      "hash": "ad43f8aa4f5261ae450595dc864a6107",
+      "size": 114704
+    },
+    {
+      "path": "voice/howler.wav",
+      "hash": "ded2ee939731febece104dbf87f55eda",
+      "size": 114704
+    },
+    {
+      "path": "voice/jenny.wav",
+      "hash": "39b5aacad40c5063ddbfab31bc2298ba",
+      "size": 167624
+    },
+    {
+      "path": "voice/mumbles.wav",
+      "hash": "ec49115c537afd849f09329c7cba6c54",
+      "size": 70604
+    },
+    {
+      "path": "voice/pip.wav",
+      "hash": "36bbd165640c25af9c9f9961f4976385",
+      "size": 70604
+    },
+    {
+      "path": "voice/sheety.wav",
+      "hash": "1ee02503d2cbbeeb63c8418d40adba28",
+      "size": 97064
+    },
+    {
+      "path": "voice/skelly.wav",
+      "hash": "4402b3922251a10974f3d5c423afaf41",
+      "size": 70604
+    },
+    {
+      "path": "voice/wanda.wav",
+      "hash": "a7f7cfac519c1931337c7361886736ef",
+      "size": 88244
+    }
+  ]
+}

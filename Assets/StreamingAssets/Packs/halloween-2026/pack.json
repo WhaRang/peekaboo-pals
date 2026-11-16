@@ -1,0 +1,165 @@
+{
+  "id": "halloween-2026",
+  "title": "Halloween 2026",
+  "date": "2026-10-31",
+  "tagline": "Spooky friends are hiding around us",
+  "legacyPrefix": "SPOOKY",
+  "theme": {
+    "accent": "#ff8a1f",
+    "accent2": "#7ccf3a",
+    "logo": "logo.png",
+    "cover": "art/pip.png",
+    "scenery": "scenery.png",
+    "moon": true,
+    "ambient": "embers",
+    "bats": true
+  },
+  "texts": {
+    "friends": "spooky friends",
+    "haulTitle": "MY SPOOKY HAUL",
+    "ranks": [
+      "FRESH PUMPKIN",
+      "GHOST ROOKIE",
+      "BAT BUDDY",
+      "MONSTER MATE",
+      "SPOOK MASTER",
+      "HALLOWEEN ROYALTY"
+    ]
+  },
+  "rarities": {
+    "common": {
+      "name": "Spooky"
+    },
+    "rare": {
+      "name": "Scary"
+    },
+    "epic": {
+      "name": "Boo"
+    },
+    "legendary": {
+      "name": "Halloween"
+    }
+  },
+  "floatGrades": [
+    "Phantom Perfect",
+    "Freshly Haunted",
+    "Lightly Cursed",
+    "Well Spooked",
+    "Cobwebbed",
+    "Crumbly Old"
+  ],
+  "characters": [
+    {
+      "id": "pip",
+      "name": "Pip the Pumpkin",
+      "rarity": "common",
+      "power": 18,
+      "description": "Grins from stem to toes and rolls everywhere instead of walking.",
+      "color": "#ff8a1f",
+      "art": "art/pip.png",
+      "voice": "voice/pip.wav",
+      "code": "12c35c387ecde5fe6a3d"
+    },
+    {
+      "id": "skelly",
+      "name": "Skelly Bones",
+      "rarity": "common",
+      "power": 24,
+      "description": "Rattles when he laughs, which is basically all the time.",
+      "color": "#f3efe6",
+      "art": "art/skelly.png",
+      "voice": "voice/skelly.wav",
+      "code": "f5b241863b6d5651268d"
+    },
+    {
+      "id": "batsy",
+      "name": "Batsy",
+      "rarity": "common",
+      "power": 15,
+      "description": "Hangs upside down to think. Mostly thinks about snacks.",
+      "color": "#7a49b8",
+      "art": "art/batsy.png",
+      "voice": "voice/batsy.wav",
+      "code": "3ecbf8757c4f8787aab4"
+    },
+    {
+      "id": "sheety",
+      "name": "Sheety the Ghost",
+      "rarity": "common",
+      "power": 21,
+      "description": "Says BOO to make friends. It works surprisingly well.",
+      "color": "#cfc5ff",
+      "art": "art/sheety.png",
+      "voice": "voice/sheety.wav",
+      "code": "9d6af38540df22a010bc"
+    },
+    {
+      "id": "wanda",
+      "name": "Wanda the Witch",
+      "rarity": "rare",
+      "power": 52,
+      "description": "Her spells only turn things into cupcakes. On purpose.",
+      "color": "#b9e58a",
+      "art": "art/wanda.png",
+      "voice": "voice/wanda.wav",
+      "code": "13013477ed1736689f8f"
+    },
+    {
+      "id": "mumbles",
+      "name": "Mumbles the Mummy",
+      "rarity": "rare",
+      "power": 44,
+      "description": "Wrapped up in 3,000 years of naps. Still sleepy.",
+      "color": "#e9d9b0",
+      "art": "art/mumbles.png",
+      "voice": "voice/mumbles.wav",
+      "code": "a288298c007517ae3b92"
+    },
+    {
+      "id": "howler",
+      "name": "Howler the Werewolf",
+      "rarity": "rare",
+      "power": 58,
+      "description": "Howls at the moon, then apologizes to the neighbors.",
+      "color": "#8b6a56",
+      "art": "art/howler.png",
+      "voice": "voice/howler.wav",
+      "code": "d00fbbc61f0cd0fd872b"
+    },
+    {
+      "id": "fangsworth",
+      "name": "Count Fangsworth",
+      "rarity": "epic",
+      "power": 82,
+      "description": "Lord of the midnight ball. Only drinks tomato juice, darling.",
+      "color": "#d7263d",
+      "art": "art/fangsworth.png",
+      "voice": "voice/fangsworth.wav",
+      "code": "f74c02281ea03b8cc568"
+    },
+    {
+      "id": "gourdking",
+      "name": "The Great Gourd King",
+      "rarity": "epic",
+      "power": 85,
+      "description": "Ruler of every pumpkin patch. His crown is 100% candy-proof.",
+      "color": "#ffd23f",
+      "art": "art/gourdking.png",
+      "voice": "voice/gourdking.wav",
+      "code": "2edf5e03986aec69e52a"
+    },
+    {
+      "id": "jenny",
+      "name": "Jenny XJ-Boo",
+      "rarity": "legendary",
+      "power": 99,
+      "description": "A teenage robot sworn to protect the Earth. And her candy.",
+      "color": "#5fd8ff",
+      "art": "art/jenny.png",
+      "voice": "voice/jenny.wav",
+      "signature": "robot",
+      "teaser": "Teenage robot incoming…",
+      "code": "bcdfbac0ca3da3de8123"
+    }
+  ]
+}

@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 3b044c93d7d484c34a3fa9f2d02b0c67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5555964256148146967
+    second: scratches_0
+  - first:
+      213: 6507234013662387977
+    second: scratches_1
+  - first:
+      213: -7709934423745351572
+    second: scratches_2
+  - first:
+      213: 2371250704384452282
+    second: scratches_3
+  - first:
+      213: -3336325426624204084
+    second: scratches_4
+  - first:
+      213: -9119108394792053116
+    second: scratches_5
+  - first:
+      213: 508288899381825876
+    second: scratches_6
+  - first:
+      213: 3002093581144831462
+    second: scratches_7
+  - first:
+      213: 3708438261459054723
+    second: scratches_8
+  - first:
+      213: 2602623355634819825
+    second: scratches_9
+  - first:
+      213: -8961975510018310617
+    second: scratches_10
+  - first:
+      213: 7998502706724888555
+    second: scratches_11
+  - first:
+      213: 7740452572363093388
+    second: scratches_12
+  - first:
+      213: 8752160702389822718
+    second: scratches_13
+  - first:
+      213: -5209812111185881123
+    second: scratches_14
+  - first:
+      213: 1302816604843102337
+    second: scratches_15
+  - first:
+      213: 2412217514238219626
+    second: scratches_16
+  - first:
+      213: -8255371687841970334
+    second: scratches_17
+  - first:
+      213: 2560618703180375701
+    second: scratches_18
+  - first:
+      213: 3061715036254849201
+    second: scratches_19
+  - first:
+      213: -4416724896218238437
+    second: scratches_20
+  - first:
+      213: -775646458054947032
+    second: scratches_21
+  - first:
+      213: 3594452149192650670
+    second: scratches_22
+  - first:
+      213: 9043660270213519652
+    second: scratches_23
+  - first:
+      213: -7369519905397285699
+    second: scratches_24
+  - first:
+      213: 6814987926756929352
+    second: scratches_25
+  - first:
+      213: 1460595627961979208
+    second: scratches_26
+  - first:
+      213: -2749326095201568791
+    second: scratches_27
+  - first:
+      213: 6823437378776652473
+    second: scratches_28
+  - first:
+      213: -4917915760417418578
+    second: scratches_29
+  - first:
+      213: 8308490712045306665
+    second: scratches_30
+  - first:
+      213: 6475726808256249441
+    second: scratches_31
+  - first:
+      213: -4342793871241023992
+    second: scratches_32
+  - first:
+      213: 7057763978571789756
+    second: scratches_33
+  - first:
+      213: 7312358697124758600
+    second: scratches_34
+  - first:
+      213: -1388309922509907862
+    second: scratches_35
+  - first:
+      213: 6772002684773191202
+    second: scratches_36
+  - first:
+      213: 2890418940611359793
+    second: scratches_37
+  - first:
+      213: -5596619387782824268
+    second: scratches_38
+  - first:
+      213: 7240080541915897385
+    second: scratches_39
+  - first:
+      213: -3330895715413687883
+    second: scratches_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scratches_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 365
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4b58f12ff35e2b0800000000000000
+      internalID: -5555964256148146967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 403
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f9faecbd65e4a50800000000000000
+      internalID: 6507234013662387977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 388
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c603a179d7fc00590800000000000000
+      internalID: -7709934423745351572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 334
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6ea34c3ff58e020800000000000000
+      internalID: 2371250704384452282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 371
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2f5fa73bdf2b1d0800000000000000
+      internalID: -3336325426624204084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 328
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4861324ea3b627180800000000000000
+      internalID: -9119108394792053116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 285
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4519dea9f0ecd0700800000000000000
+      internalID: 508288899381825876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 262
+        width: 87
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e53e9ec43499a920800000000000000
+      internalID: 3002093581144831462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 302
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380fbbd53f4077330800000000000000
+      internalID: 3708438261459054723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 345
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2afb417206e1420800000000000000
+      internalID: 2602623355634819825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 243
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ebb9791caa0a380800000000000000
+      internalID: -8961975510018310617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 249
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef565975d3600f60800000000000000
+      internalID: 7998502706724888555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 185
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85f5789a9c9b6b60800000000000000
+      internalID: 7740452572363093388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 234
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef42413b9cbe57970800000000000000
+      internalID: 8752160702389822718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_14
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 211
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7dc36dc7703b7b0800000000000000
+      internalID: -5209812111185881123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 230
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180572bacc8841210800000000000000
+      internalID: 1302816604843102337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 212
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6515297c0be97120800000000000000
+      internalID: 2412217514238219626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 176
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267cc5150370f6d80800000000000000
+      internalID: -8255371687841970334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 148
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596a940d425298320800000000000000
+      internalID: 2560618703180375701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 55
+        width: 156
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b841739a956d7a20800000000000000
+      internalID: 3061715036254849201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 185
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12b9429b14a4b2c0800000000000000
+      internalID: -4416724896218238437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f485ce7a95c35f0800000000000000
+      internalID: -775646458054947032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 151
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf64ca7f2f02e130800000000000000
+      internalID: 3594452149192650670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 116
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429d363b919818d70800000000000000
+      internalID: 9043660270213519652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 138
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcdf9101b43ab990800000000000000
+      internalID: -7369519905397285699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f2cea7963b39e50800000000000000
+      internalID: 6814987926756929352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841992d2cf3154410800000000000000
+      internalID: 1460595627961979208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e77cc3ab7e68d9d0800000000000000
+      internalID: -2749326095201568791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_28
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 106
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bada15d428b1be50800000000000000
+      internalID: 6823437378776652473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 102
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea256011cad00cbb0800000000000000
+      internalID: -4917915760417418578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923c7174840bd4370800000000000000
+      internalID: 8308490712045306665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 58
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e7694e8376ed950800000000000000
+      internalID: 6475726808256249441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 40
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e6fe3bbfb4bb3c0800000000000000
+      internalID: -4342793871241023992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5b153e1f632f160800000000000000
+      internalID: 7057763978571789756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8440c541e77ba7560800000000000000
+      internalID: 7312358697124758600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 8
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6895a62b7bbbbce0800000000000000
+      internalID: -1388309922509907862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 41
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ec5ebef8cfafd50800000000000000
+      internalID: 6772002684773191202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 7
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134733f56b4dc1820800000000000000
+      internalID: 2890418940611359793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_38
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 24
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bef328a150d452b0800000000000000
+      internalID: -5596619387782824268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e5d1ea4eee97460800000000000000
+      internalID: 7240080541915897385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratches_40
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b185e2aef746c1d0800000000000000
+      internalID: -3330895715413687883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      scratches_0: -5555964256148146967
+      scratches_1: 6507234013662387977
+      scratches_10: -8961975510018310617
+      scratches_11: 7998502706724888555
+      scratches_12: 7740452572363093388
+      scratches_13: 8752160702389822718
+      scratches_14: -5209812111185881123
+      scratches_15: 1302816604843102337
+      scratches_16: 2412217514238219626
+      scratches_17: -8255371687841970334
+      scratches_18: 2560618703180375701
+      scratches_19: 3061715036254849201
+      scratches_2: -7709934423745351572
+      scratches_20: -4416724896218238437
+      scratches_21: -775646458054947032
+      scratches_22: 3594452149192650670
+      scratches_23: 9043660270213519652
+      scratches_24: -7369519905397285699
+      scratches_25: 6814987926756929352
+      scratches_26: 1460595627961979208
+      scratches_27: -2749326095201568791
+      scratches_28: 6823437378776652473
+      scratches_29: -4917915760417418578
+      scratches_3: 2371250704384452282
+      scratches_30: 8308490712045306665
+      scratches_31: 6475726808256249441
+      scratches_32: -4342793871241023992
+      scratches_33: 7057763978571789756
+      scratches_34: 7312358697124758600
+      scratches_35: -1388309922509907862
+      scratches_36: 6772002684773191202
+      scratches_37: 2890418940611359793
+      scratches_38: -5596619387782824268
+      scratches_39: 7240080541915897385
+      scratches_4: -3336325426624204084
+      scratches_40: -3330895715413687883
+      scratches_5: -9119108394792053116
+      scratches_6: 508288899381825876
+      scratches_7: 3002093581144831462
+      scratches_8: 3708438261459054723
+      scratches_9: 2602623355634819825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

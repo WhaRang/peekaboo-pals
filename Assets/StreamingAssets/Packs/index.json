@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "builtAt": "2026-11-06T13:25:23Z",
+  "featured": "halloween-2026",
+  "packs": [
+    {
+      "id": "halloween-2026",
+      "title": "Halloween 2026",
+      "date": "2026-10-31",
+      "hash": "faf753370fe9d132dba49eef1e4d3882",
+      "updated": "2026-11-06T12:55:38Z",
+      "size": 1546529
+    }
+  ],
+  "upcoming": [
+    {
+      "title": "Christmas 2026",
+      "date": "2026-12-24"
+    }
+  ],
+  "remote": "https://guileless-dusk-fc1546.netlify.app/StreamingAssets/Packs/",
+  "app": {
+    "version": "2.0",
+    "android": "https://drive.google.com/file/d/1dwfys3Au5WMLffiVGgA2EKsDQS6CJ9TQ/view"
+  }
+}

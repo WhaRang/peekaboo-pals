@@ -1,0 +1,44 @@
+{
+  "id": "christmas-2026",
+  "title": "Christmas 2026",
+  "date": "2026-12-24",
+  "tagline": "Frosty pals are hiding around the tree",
+
+  "theme": {
+    "accent": "#7fd4ff",
+    "accent2": "#ffffff",
+    "logo": "logo.png",
+    "cover": "art/snowbo.png",
+    "background": "background.png",
+    "scenery": "scenery.png",
+    "moon": true,
+    "ambient": "snow",
+    "bats": false
+  },
+
+  "texts": {
+    "friends": "frosty pals",
+    "haulTitle": "MY FROSTY HAUL",
+    "ranks": ["SNOW ROOKIE", "COCOA SIPPER", "SLED BUDDY", "ELF IN TRAINING", "NORTH POLE PRO", "CHRISTMAS LEGEND"]
+  },
+
+  "rarities": {
+    "common": { "name": "Chilly" },
+    "rare": { "name": "Frosty" },
+    "epic": { "name": "Jolly" },
+    "legendary": { "name": "Christmas", "color": "#ffd23f", "glow": "#fff3b0" }
+  },
+
+  "floatGrades": ["Fresh Snow", "Crisp", "Lightly Thawed", "Slushy", "Muddy Snow", "Melted"],
+
+  "characters": [
+    { "id": "snowbo", "name": "Snowbo", "rarity": "common", "power": 18, "color": "#e8f6ff",
+      "description": "Lost his carrot nose. Pretends it's a fashion choice." },
+    { "id": "mittens", "name": "Mittens", "rarity": "rare", "power": 50, "color": "#ff5f6d",
+      "description": "Two mittens, one brain. Always holding hands." },
+    { "id": "giftzilla", "name": "Giftzilla", "rarity": "epic", "power": 80, "color": "#5fd630",
+      "description": "Unwraps everything. Including other monsters." },
+    { "id": "santabot", "name": "Santa-Bot 3000", "rarity": "legendary", "power": 99, "color": "#ffd23f",
+      "description": "Delivers presents at the speed of light. Ho ho beep.", "teaser": "Something is coming down the chimney…" }
+  ]
+}

@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 199a2f605b0b441e98337b767b41c0a2, type: 3}
+  m_Name: UiThemeConfig
+  m_EditorClassIdentifier: Assembly-CSharp::_Main.Scripts.Configs.Ui.UiThemeConfig
+  _titleFont: {fileID: 12800000, guid: 1977d089c052b45cb9d46c542c157dfd, type: 3}
+  _bodyFont: {fileID: 12800000, guid: cec69c4aad0bc48bf92877d57315dbe9, type: 3}
+  _particleAtlas: {fileID: 2800000, guid: 6311d4d85e0be4877995a9467cc6f3e9, type: 3}
+  _particleAtlasColumns: 4
+  _particleAtlasRows: 5
+  _wearShader: {fileID: 4800000, guid: 1c804beefdb8b473b9ec63d4c59348e6, type: 3}
+  _sprites:
+  - _key: 0
+    _sprite: {fileID: 21300000, guid: 0f0d50df05f804ef1b8b0393d5dfb2b1, type: 3}
+  - _key: 1
+    _sprite: {fileID: 21300000, guid: 94a3c25a2e54c4f0c87c300278bba71b, type: 3}
+  - _key: 2
+    _sprite: {fileID: 21300000, guid: b261b12bedfe94f6b88bad9b9250a32e, type: 3}
+  - _key: 3
+    _sprite: {fileID: 21300000, guid: 6ef9ec77e93c84c3c9a3c051349ad633, type: 3}
+  - _key: 4
+    _sprite: {fileID: 21300000, guid: 9cd05d7dbf82c4d6da4170e2e4f5c136, type: 3}
+  - _key: 5
+    _sprite: {fileID: 21300000, guid: cfe201ed2d8354e1abdb74668cee5f5d, type: 3}
+  - _key: 6
+    _sprite: {fileID: 21300000, guid: 0dd305bba26cb43d2bc585988d5ae61b, type: 3}
+  - _key: 7
+    _sprite: {fileID: 21300000, guid: 4ca85d6049e6d44be9588337fa9e06f5, type: 3}
+  - _key: 8
+    _sprite: {fileID: 21300000, guid: c38345b8dc53147b49564aedc9c7e81a, type: 3}
+  - _key: 9
+    _sprite: {fileID: 21300000, guid: a79c501f63b8648fdbd278aa3075271e, type: 3}
+  - _key: 10
+    _sprite: {fileID: 21300000, guid: 5bff347a28e204a2a91481f6ac1231cd, type: 3}
+  - _key: 11
+    _sprite: {fileID: 21300000, guid: 57f7f3bb85274496f829060b31d86c3e, type: 3}
+  - _key: 12
+    _sprite: {fileID: 21300000, guid: 51df838bf434b46d18b686bc2e364f61, type: 3}
+  - _key: 13
+    _sprite: {fileID: 21300000, guid: c80ac76ba89e547f9a649f2c5d5d8e38, type: 3}
+  - _key: 14
+    _sprite: {fileID: 21300000, guid: 29f7f450d239647bdbe3652f738e9ce3, type: 3}
+  - _key: 20
+    _sprite: {fileID: 21300000, guid: 07d085ba3c9da48e492275a3a0785fda, type: 3}
+  - _key: 21
+    _sprite: {fileID: 21300000, guid: d9a3cadc4f0ab441c9cb89c752c32a07, type: 3}
+  - _key: 22
+    _sprite: {fileID: 21300000, guid: bb8ca8a65c02644e7ac2f09719f08aa2, type: 3}
+  - _key: 23
+    _sprite: {fileID: 21300000, guid: ec156f99e469c45daae1d7b46fcfc68a, type: 3}
+  - _key: 24
+    _sprite: {fileID: 21300000, guid: 5b68147928d584cd68f05882e210e5cc, type: 3}
+  - _key: 25
+    _sprite: {fileID: 21300000, guid: 2ed7e88a85e9644eca7f2c3bba111536, type: 3}
+  - _key: 26
+    _sprite: {fileID: 21300000, guid: c93033304f5d5453c8e5762af31657ca, type: 3}
+  - _key: 27
+    _sprite: {fileID: 21300000, guid: 46d73c9c80130489292354723518f7e4, type: 3}
+  - _key: 28
+    _sprite: {fileID: 21300000, guid: c1e777bb9913b4af3b8d24b329888f9c, type: 3}
+  - _key: 29
+    _sprite: {fileID: 21300000, guid: fb2c8e2fd627d4814a5162fa5df8840a, type: 3}
+  - _key: 30
+    _sprite: {fileID: 21300000, guid: b0bc3fc57446346ebbc70134e1215593, type: 3}
+  - _key: 31
+    _sprite: {fileID: 21300000, guid: 27bbcf55e10c44663a95d8b9aa9e7b63, type: 3}
+  - _key: 32
+    _sprite: {fileID: 21300000, guid: a04699178d7e24afe9f9a9b83ecd4230, type: 3}
+  - _key: 33
+    _sprite: {fileID: 21300000, guid: 9e67c1480f2cb410ba5e89cf6cf363a2, type: 3}
+  - _key: 40
+    _sprite: {fileID: 21300000, guid: 6c1f31cbcece54b51bc134b39f8e9113, type: 3}
+  - _key: 41
+    _sprite: {fileID: 21300000, guid: 4d08d150412f548ed9704c48038125af, type: 3}
+  - _key: 42
+    _sprite: {fileID: 21300000, guid: 6b8d10938fcaf4c3aae901aa3b81e9f2, type: 3}
+  - _key: 43
+    _sprite: {fileID: 21300000, guid: fcb661b761001469fa6e9b5098430e1f, type: 3}
+  - _key: 44
+    _sprite: {fileID: 21300000, guid: c5d1bb8f555fb4545b0cdf3a24dfb547, type: 3}
+  - _key: 45
+    _sprite: {fileID: 21300000, guid: 807ee2fa2d3a743d6a807bf4db8181bf, type: 3}
+  - _key: 46
+    _sprite: {fileID: 21300000, guid: 5616f1148fe8d4205b0cf136356a3a75, type: 3}
+  - _key: 47
+    _sprite: {fileID: 21300000, guid: 3b044c93d7d484c34a3fa9f2d02b0c67, type: 3}
+  - _key: 48
+    _sprite: {fileID: 21300000, guid: b108a46a0ea7240768b356d9f3b4e56a, type: 3}
+  - _key: 49
+    _sprite: {fileID: 21300000, guid: 12b5a4152d63641caab7a38fc7b923c1, type: 3}
+  - _key: 50
+    _sprite: {fileID: 21300000, guid: 35cdbac5f9b834e558dca02bc6bfff02, type: 3}
+  _palette:
+    NightDeep: {r: 0.06, g: 0.03, b: 0.14, a: 1}
+    Night: {r: 0.15, g: 0.07, b: 0.3, a: 1}
+    Purple: {r: 0.38, g: 0.17, b: 0.66, a: 1}
+    PurpleLight: {r: 0.6, g: 0.4, b: 0.95, a: 1}
+    Pumpkin: {r: 1, g: 0.54, b: 0.12, a: 1}
+    Slime: {r: 0.49, g: 1, b: 0.31, a: 1}
+    Candy: {r: 1, g: 0.37, b: 0.66, a: 1}
+    Gold: {r: 1, g: 0.82, b: 0.25, a: 1}
+    Ink: {r: 0.1, g: 0.04, b: 0.18, a: 1}
+    Cream: {r: 1, g: 0.96, b: 0.88, a: 1}
+    Muted: {r: 0.66, g: 0.58, b: 0.82, a: 1}
+    Danger: {r: 1, g: 0.32, b: 0.36, a: 1}

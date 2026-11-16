@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e558c1f06e93946a2871642826512cf5, type: 3}
+  m_Name: ScoringConfig
+  m_EditorClassIdentifier: Assembly-CSharp::_Main.Scripts.Configs.Scoring.ScoringConfig
+  <MinComboMultiplier>k__BackingField: 1
+  <MaxComboMultiplier>k__BackingField: 1
+  _comboDurationTiers:
+  - _upToMultiplier: 3
+    _durationInSeconds: 10
+  - _upToMultiplier: 5
+    _durationInSeconds: 8
+  - _upToMultiplier: 7
+    _durationInSeconds: 7
+  - _upToMultiplier: 9
+    _durationInSeconds: 6
+  - _upToMultiplier: 10
+    _durationInSeconds: 5

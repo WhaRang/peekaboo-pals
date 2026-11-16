@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc93f6146b11e4f069ebbb28b0a9c222, type: 3}
+  m_Name: CollectionConfig
+  m_EditorClassIdentifier: Assembly-CSharp::_Main.Scripts.Configs.Collection.CollectionConfig
+  _completionBonusPoints: 100
+  _rarityTiers:
+  - _rarity: 0
+    _tierName: Cuddly
+    _rarityLabel: Common
+    _points: 10
+    _powerRange: {x: 10, y: 30}
+    _primaryColor: {r: 1, g: 0.5411765, b: 0.12156863, a: 1}
+    _secondaryColor: {r: 0.4862745, g: 0.8117647, b: 0.22745098, a: 1}
+    _glowColor: {r: 1, g: 0.7019608, b: 0.2784314, a: 1}
+    _rainbowShimmer: 0
+    _stars: 1
+    _revealStyle: 0
+    _buildUpSeconds: 0.15
+    _burstParticles: 45
+    _screenShake: 0
+    _revealHaptic: 1
+    _revealStinger: {fileID: 8300000, guid: 50e35acb5668445ec9e948d37acf72ba, type: 3}
+  - _rarity: 1
+    _tierName: Sneaky
+    _rarityLabel: Rare
+    _points: 25
+    _powerRange: {x: 40, y: 60}
+    _primaryColor: {r: 0.60784316, g: 0.36078432, b: 1, a: 1}
+    _secondaryColor: {r: 0.35686275, g: 0.16470589, b: 0.61960787, a: 1}
+    _glowColor: {r: 0.7882353, g: 0.63529414, b: 1, a: 1}
+    _rainbowShimmer: 0
+    _stars: 2
+    _revealStyle: 1
+    _buildUpSeconds: 0.75
+    _burstParticles: 80
+    _screenShake: 14
+    _revealHaptic: 2
+    _revealStinger: {fileID: 8300000, guid: 4017e962fcdc7432d8f592ce2f34896a, type: 3}
+  - _rarity: 2
+    _tierName: Wild
+    _rarityLabel: Epic
+    _points: 50
+    _powerRange: {x: 70, y: 85}
+    _primaryColor: {r: 0.24313726, g: 0.9098039, b: 0.41568628, a: 1}
+    _secondaryColor: {r: 1, g: 0.18431373, b: 0.8156863, a: 1}
+    _glowColor: {r: 0.7137255, g: 1, b: 0.23921569, a: 1}
+    _rainbowShimmer: 0
+    _stars: 3
+    _revealStyle: 2
+    _buildUpSeconds: 1.4
+    _burstParticles: 130
+    _screenShake: 24
+    _revealHaptic: 3
+    _revealStinger: {fileID: 8300000, guid: 91c47927ac2ab4ed69f997b76d47d30a, type: 3}
+  - _rarity: 3
+    _tierName: Mythic
+    _rarityLabel: Legendary
+    _points: 100
+    _powerRange: {x: 99, y: 99}
+    _primaryColor: {r: 0.56078434, g: 0.9137255, b: 1, a: 1}
+    _secondaryColor: {r: 0.05882353, g: 0.101960786, b: 0.23921569, a: 1}
+    _glowColor: {r: 0.49019608, g: 0.9764706, b: 1, a: 1}
+    _rainbowShimmer: 1
+    _stars: 4
+    _revealStyle: 3
+    _buildUpSeconds: 2.6
+    _burstParticles: 220
+    _screenShake: 34
+    _revealHaptic: 4
+    _revealStinger: {fileID: 8300000, guid: 2a45e5391ea834f44bf9dfb8efec3eb6, type: 3}
+  _recatchCooldownSeconds: 180
+  _floatGrades:
+  - _name: Perfect Peek
+    _maxFloat: 0.01
+    _weight: 1
+    _bonusPoints: 100
+    _color: {r: 0.49019608, g: 0.9764706, b: 1, a: 1}
+    _metallic: 1
+    _saturation: 1.4
+    _contrast: 1.35
+    _wash: 0
+    _scratches: 0
+    _flameIntensity: 1
+    _flameColor: {r: 0.23921569, g: 0.8509804, b: 1, a: 1}
+    _flameTipColor: {r: 1, g: 0.42352942, b: 0.9411765, a: 1}
+  - _name: Fresh Find
+    _maxFloat: 0.07
+    _weight: 6
+    _bonusPoints: 40
+    _color: {r: 1, g: 0.8235294, b: 0.24705882, a: 1}
+    _metallic: 0.85
+    _saturation: 1.28
+    _contrast: 1.25
+    _wash: 0
+    _scratches: 0
+    _flameIntensity: 0.75
+    _flameColor: {r: 1, g: 0.47843137, b: 0.07058824, a: 1}
+    _flameTipColor: {r: 1, g: 0.9411765, b: 0.47843137, a: 1}
+  - _name: Lightly Loved
+    _maxFloat: 0.15
+    _weight: 12
+    _bonusPoints: 20
+    _color: {r: 0.7882353, g: 0.63529414, b: 1, a: 1}
+    _metallic: 0.55
+    _saturation: 1.12
+    _contrast: 1.12
+    _wash: 0
+    _scratches: 0.05
+    _flameIntensity: 0.48
+    _flameColor: {r: 1, g: 0.41568628, b: 0.101960786, a: 1}
+    _flameTipColor: {r: 1, g: 0.7529412, b: 0.2901961, a: 1}
+  - _name: Well Hugged
+    _maxFloat: 0.38
+    _weight: 36
+    _bonusPoints: 8
+    _color: {r: 0.56078434, g: 0.8784314, b: 0.3529412, a: 1}
+    _metallic: 0.2
+    _saturation: 1
+    _contrast: 1
+    _wash: 0.04
+    _scratches: 0.15
+    _flameIntensity: 0.22
+    _flameColor: {r: 1, g: 0.47843137, b: 0.16470589, a: 1}
+    _flameTipColor: {r: 1, g: 0.7019608, b: 0.3529412, a: 1}
+  - _name: Dusty
+    _maxFloat: 0.45
+    _weight: 15
+    _bonusPoints: 3
+    _color: {r: 0.7058824, g: 0.65882355, b: 0.8, a: 1}
+    _metallic: 0
+    _saturation: 0.75
+    _contrast: 0.9
+    _wash: 0.16
+    _scratches: 0.38
+    _flameIntensity: 0.08
+    _flameColor: {r: 0.6901961, g: 0.5411765, b: 0.4392157, a: 1}
+    _flameTipColor: {r: 0.8784314, g: 0.78431374, b: 0.65882355, a: 1}
+  - _name: Crumbly Old
+    _maxFloat: 1
+    _weight: 30
+    _bonusPoints: 0
+    _color: {r: 0.6117647, g: 0.5882353, b: 0.54901963, a: 1}
+    _metallic: 0
+    _saturation: 0.5
+    _contrast: 0.82
+    _wash: 0.3
+    _scratches: 0.62
+    _flameIntensity: 0
+    _flameColor: {r: 0.5411765, g: 0.50980395, b: 0.47058824, a: 1}
+    _flameTipColor: {r: 0.78431374, g: 0.7529412, b: 0.7058824, a: 1}

@@ -1,0 +1,9 @@
+<linker>
+	<!-- IL2CPP stripping: ZXing is used through generic readers/writers, and the save/settings/pack-manifest types are created by Newtonsoft via reflection. -->
+	<assembly fullname="zxing" preserve="all"/>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="_Main.Scripts.Ecs.GameSaving.Data.*" preserve="all"/>
+		<type fullname="_Main.Scripts.Services.Packs.Dto.*" preserve="all"/>
+		<type fullname="_Main.Scripts.Services.Settings.SettingsService/SettingsData" preserve="all"/>
+	</assembly>
+</linker>
